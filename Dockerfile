@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-CDM echo "Hello github from Docker!"
+CMD echo "Hello github from Docker!"
